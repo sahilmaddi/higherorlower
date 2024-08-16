@@ -25,7 +25,7 @@ This is a simple Android app that implements the classic guessing game "Higher o
 ### Gameplay:
 
 1. Launch the app.
-2. A random number between 1 and 100 will be generated.
+2. A blank line will be generated with a button guess below it. Enter a number between 1-100 only.
 3. Enter your guess in the text field.
 4. Tap "Guess."
 5. The app will display a message indicating whether your guess was higher, lower, or correct.
